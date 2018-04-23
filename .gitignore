@@ -1,5 +1,6 @@
 *
 !.gitignore
+!README.md
 !1_simulate_phenotypes.R
 !simPheno.R
 !2_prep_dirs_run_GAPIT.sh
