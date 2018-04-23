@@ -1,0 +1,10 @@
+*
+!.gitignore
+!1_simulate_phenotypes.R
+!simPheno.R
+!2_prep_dirs_run_GAPIT.sh
+!run_GAPIT.R
+!3_run_pROC.sh
+!ROC_for_pROC.R
+!4_plot_ROC_tests.R
+!5_correlation_figs.R
